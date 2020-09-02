@@ -1,0 +1,1 @@
+print(len('That in \n mine'))
